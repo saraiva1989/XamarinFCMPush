@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "RemovidoSeguranca",
+    "firebase_url": "https://RemovidoSeguranca.firebaseio.com",
+    "project_id": "RemovidoSeguranca",
+    "storage_bucket": "mercurio-38c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "RemovidoSeguranca",
+        "android_client_info": {
+          "package_name": "br.com.athos.Mercurio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "RemovidoSeguranca",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "RemovidoSeguranca"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
